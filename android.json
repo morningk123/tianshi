@@ -3,8 +3,8 @@
   "updateUrl":"http://appdown.1016wan.com/tianshi_download/",
   "branches":[
       {
-      "code":"1008",
-      "version":"1.0.8",
+      "code":"1009",
+      "version":"1.0.9",
       "status":"release"
     }
   ]
